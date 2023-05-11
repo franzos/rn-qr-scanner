@@ -8,6 +8,8 @@ React Native has never been an entirely smooth experience but at the moment, eve
 
 Fortunately a few tweaks, and a fork, will get it working.
 
+![Screenshot](./screenshot.jpg)
+
 ### Versions
 
 - react-native: `0.71.8`
