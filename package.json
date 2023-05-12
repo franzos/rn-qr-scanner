@@ -1,7 +1,9 @@
 {
   "name": "RNQRScanner",
   "version": "0.0.1",
-  "private": true,
+  "license": "MIT",
+  "author": "Franz Geffke <m@f-a.nz>",
+  "repository": "https://github.com/franzos/rn-qr-scanner",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",

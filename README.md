@@ -40,3 +40,12 @@ npx react-native run-android
 ```
 
 Note: Sometimes metro crashes; Simply start it again (`npm start -- --reset-cache`) and reload in the app.
+
+## Development
+
+Since we're pulling `vision-camera-code-scanner` from git, the package is not pre-built. If you need type-hints:
+
+```bash
+cd node_modules/vision-camera-code-scanner
+npm run prepare
+```
